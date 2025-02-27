@@ -1,2 +1,2 @@
 # MappingReads
-Scripts for mapping reads from DNA and RNA-seq from Illumina and Nanopore. 
+All scripts used to process RNA-seq reads from Illumina sequencing. 
